@@ -1,1 +1,6 @@
-# ObjectOriented_Python
+# Object Oriented Python
+Classes
+Objects
+Methods
+Inheritance
+Subclasses
